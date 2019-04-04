@@ -1,8 +1,10 @@
 # IBM-Data Science
 
 IBM Data Science Professional Certificate notes, models and other helpful stuff.
+
 This repository is on the 9 courses of Data Science offered by IBM as a part of the Professional Certifcate.
-In this repository, you will find:
+
+## This contains help for the IBM Data Science Professional Certificate Course
 
 1. Notes
 2. Models
