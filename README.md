@@ -17,7 +17,7 @@ There will be no solutions as that would be considered as cheating and I strongl
 I hope this repository is helpful to you.
 
 ## NOTE: 
-This is not an official help resource by IBM, it's my own production. I thought it might help a some people doing these     courses.
+This is not an official help resource by IBM, it's my own production. I thought it might help some people doing these     courses.
 
 I'm also planning on building repositories with resources for other Machine Learning and DeepLearning courses for fun.
 
